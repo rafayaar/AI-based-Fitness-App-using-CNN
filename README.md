@@ -9,6 +9,7 @@
 ## Objectives:
 - algorithm Development using Python
 - exploring CNN
+- Converting model into tensorflow lite(tflite) such that I can be integrated with Flutter App
 - development and efficient working of mobile app using Flutter
 
 ## Nature of End Product:
