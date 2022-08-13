@@ -1138,24 +1138,6 @@ plt.show()
 ![png](output_23_0.png)
     
 
-
-
-```python
-print("Classification Report:\n----------------------\n", clr)
-
-```
-
-    Classification Report:
-    ----------------------
-                   precision    recall  f1-score   support
-    
-     onion_rings       0.96      1.00      0.98        25
-          samosa       0.89      0.96      0.93        26
-         waffles       0.97      0.90      0.93        39
-    
-        accuracy                           0.94        90
-       macro avg       0.94      0.95      0.95        90
-    weighted avg       0.95      0.94      0.94        90
     
 
 
